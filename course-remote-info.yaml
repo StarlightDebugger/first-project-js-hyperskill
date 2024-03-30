@@ -1,0 +1,48 @@
+hyperskill_project:
+  id: 426
+  ide_files: https://cogniterra.org/media/attachments/lesson/36290/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+  - id: 2494
+    step: 41549
+    is_completed: false
+  - id: 2495
+    step: 41550
+    is_completed: false
+  - id: 2496
+    step: 41551
+    is_completed: false
+topics:
+  0:
+    - title: Introduction to JavaScript
+      theory_id: 8016
+    - title: Writing first program
+      theory_id: 8154
+    - title: Multi-line programs
+      theory_id: 8162
+  1:
+    - title: Comments
+      theory_id: 8170
+    - title: Declaring variables
+      theory_id: 8186
+    - title: Strings and numbers
+      theory_id: 8194
+    - title: Arithmetic operators
+      theory_id: 8372
+  2:
+    - title: Command line overview
+      theory_id: 8977
+    - title: Parameters and options
+      theory_id: 9746
+    - title: Introduction to Node.js
+      theory_id: 12691
+    - title: What is npm
+      theory_id: 13256
+    - title: CommonJS modules
+      theory_id: 23897
+    - title: What is a package manager?
+      theory_id: 26248
+    - title: Taking input
+      theory_id: 31844
