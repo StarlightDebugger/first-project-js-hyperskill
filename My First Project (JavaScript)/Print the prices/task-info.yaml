@@ -86,10 +86,10 @@ files:
       if __name__ == '__main__':
           PrintFirstProject('task').run_tests()
     learner_created: false
-feedback_link: https://hyperskill.org/projects/426/stages/2494/implement#comment
+feedback_link: https://hyperskill.org/learn/step/41549#comment
 check_profile: hyperskill_node_javascript
 status: Solved
 feedback:
   message: <html>Correct solution</html>
   time: "Sat, 30 Mar 2024 03:34:04 UTC"
-record: -1
+record: 1
